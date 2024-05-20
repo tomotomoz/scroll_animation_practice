@@ -301,6 +301,7 @@ img {
   }
   .title {
     font-size: 2rem;
+    margin-bottom: 32px;
   }
   .main-visual img{
     margin-bottom: 80px;
@@ -311,7 +312,6 @@ img {
   }
 
   .about-text {
-    align-items: flex-start;
     position: static;
   }
 
